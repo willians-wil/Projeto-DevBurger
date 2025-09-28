@@ -1,7 +1,7 @@
 const list = document.querySelector("ul");
 const buttonShowall = document.querySelector(".show-all");
 const buttonDiscount = document.querySelector(".show-descont");
-const intemDescont = document.querySelector(".total-sum");
+const itemDescont = document.querySelector(".total-sum");
 const productVegan = document.querySelector(".vegan-product");
 
 function showAll(productArray) {
@@ -63,5 +63,5 @@ function listVegan() {
 
 buttonShowall.addEventListener("click", () => showAll(menuOptions));
 buttonDiscount.addEventListener("click", listDescont);
-intemDescont.addEventListener("click", sumOfitens);
+itemDescont.addEventListener("click", sumOfitens);
 productVegan.addEventListener("click", listVegan);
