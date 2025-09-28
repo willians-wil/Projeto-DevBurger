@@ -1,6 +1,6 @@
 🍔 DevBurger
 
-**devBurger** é um projeto de cardápio interativo de hambúrgueres, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em praticar manipulação de DOM e lógica de array em JavaScript. A aplicação simula um sistema de visualização de produtos com funcionalidades úteis para um cardápio digital.
+**DevBurger** é um projeto de cardápio interativo de hambúrgueres, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em praticar manipulação de DOM e lógica de array em JavaScript. A aplicação simula um sistema de visualização de produtos com funcionalidades úteis para um cardápio digital.
 
 ---
 
